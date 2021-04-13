@@ -1,0 +1,3 @@
+[submodule "mini_music"]
+	path = mini_music
+	url = https://github.com/Aatitkarki/mini_music.git
